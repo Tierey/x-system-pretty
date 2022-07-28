@@ -1,0 +1,28 @@
+{
+  "name": "@x-system/pretty",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "@x-system"
+  ],
+  "author": {
+    "name": "tierey",
+    "email": "ixitixixi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tierey/x-system-pretty.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/Tierey/x-system-pretty",
+  "license": "MIT",
+  "deprecated": "in process",
+  "dependencies": {
+    "prettier": "*",
+    "@prettier/plugin-php": "*"
+  }
+}
